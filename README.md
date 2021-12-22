@@ -23,6 +23,6 @@ precision version or a combination of M,N for the corresponding nueral network. 
 │   ├── VGG_5_3.ipynb
 │   ├── VGG_5_5.ipynb
 │   └── VGG_FP.ipynb
-
+└──
 
 5 directories, 15 files
