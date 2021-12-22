@@ -23,18 +23,6 @@ precision version or a combination of M,N for the corresponding nueral network. 
 │   ├── VGG_5_3.ipynb
 │   ├── VGG_5_5.ipynb
 │   └── VGG_FP.ipynb
-└── utils
-    ├── cifar_utils.py
-    ├── image_generator.py
-    ├── layer_funcs.py
-    ├── neuralnets
-    │   ├── cnn
-    │   │   ├── LeNet_trainer.py
-    │   │   ├── model_LeNet.py
-    │   │   ├── my_LeNet_trainer.py
-    │   │   └── my_model_LeNet.py
-    │   └── mlp.py
-    ├── optimizers.py
-    └── reg_funcs.py
 
-6 directories, 25 files
+
+5 directories, 15 files
